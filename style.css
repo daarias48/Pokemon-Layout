@@ -12,12 +12,13 @@ html {
     margin: 4rem auto auto auto;
     box-shadow: 2px 2px 2px 1px #B3B2B1;
     border-radius: 25px;
+    border: 0.1rem solid black;
     width: 70%;
     min-width: 300px;
     max-width: 400px;
     min-height: 300px;
     max-height: 400px;
-    background-color: #F56A10;
+    background-color: #FE8F00;
 }
 
 .charizard__name{
